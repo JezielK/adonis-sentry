@@ -21,7 +21,9 @@
     "Adonis",
     "Sentry",
     "Raven",
-    "NodeJS"
+    "NodeJS",
+    "adonis sentry",
+    "adonis sentry 2"
   ],
   "author": "Pedro Perafán Carrasco",
   "license": "MIT",

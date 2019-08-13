@@ -1,8 +1,9 @@
-# adonis-sentry
+# adonis-sentry-v2
 
 Sentry provider for AdonisJS
 
-[![npm version](https://badge.fury.io/js/adonis-sentry.svg)](https://badge.fury.io/js/adonis-sentry)
+[![npm version](https://badge.fury.io/js/adonis-sentry-v2.svg)](https://badge.fury.io/js/adonis-sentry-v2)
+
 [![Build status](https://ci.appveyor.com/api/projects/status/sq2dbol6yxbjvkmn/branch/master?svg=true)](https://ci.appveyor.com/project/Perafan18/adonis-sentry/branch/master)
 [![GitHub license](https://img.shields.io/github/license/Perafan18/adonis-sentry.svg)](https://github.com/Perafan18/adonis-sentry/blob/master/LICENSE)
 
