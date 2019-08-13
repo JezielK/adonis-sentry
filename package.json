@@ -1,6 +1,6 @@
 {
-  "name": "adonis-sentry",
-  "version": "2.0.1",
+  "name": "adonis-sentry-v2",
+  "version": "2.0.2",
   "description": "Sentry provider for adonis framework",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Perafan18/adonis-sentry.git"
+    "url": "git+https://github.com/JezielK/adonis-sentry.git"
   },
   "keywords": [
     "AdonisJs",

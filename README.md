@@ -10,7 +10,7 @@ Sentry provider for AdonisJS
 ## Install
 
 ```bash
-adonis install adonis-sentry
+adonis install adonis-sentry-v2
 ```
 
 You need to add the provider to AdonisJS at `start/app.js`:
