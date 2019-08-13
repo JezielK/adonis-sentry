@@ -18,7 +18,7 @@ You need to add the provider to AdonisJS at `start/app.js`:
 ```javascript
 const providers = [
    ...
-   'adonis-sentry/providers/Sentry',
+   'adonis-sentry-v2/providers/Sentry',
 ];
 ```
 
@@ -63,7 +63,7 @@ module.exports = ExceptionHandler
 
 ## Official documentation for Node.js apps
 
-https://docs.sentry.io/clients/node/
+https://docs.sentry.io/platforms/node/
 
 ## Issues & PR
 
