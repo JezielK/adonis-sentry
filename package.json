@@ -1,6 +1,6 @@
 {
   "name": "adonis-sentry-v2",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Sentry provider for adonis framework",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/JezielK/adonis-sentry",
   "dependencies": {
-    "@sentry/node": "^5.5.0"
+    "@sentry/node": "^5.10.2"
   },
   "devDependencies": {
     "dotenv": "^6.0.0",
